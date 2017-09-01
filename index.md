@@ -1,10 +1,6 @@
 ---
 layout: home
 ---
-# About Theme
+# About Me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
-
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+I am currently a 3rd year Computer Science Undergraduate at IIIT, Hyderabad. I have keen interest in Machine Learning & Computer Vision and am currently working as an undergraduate researcher with Centre for Visual Information Technology(CVIT) Lab. My main area of research is Autonomous vehicle for India specific roads. I also love solving algorithmic problems in free time. 
